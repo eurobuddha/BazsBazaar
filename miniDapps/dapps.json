@@ -25,7 +25,7 @@
     "conf": "BIP39/minidapp.conf"
   },
   "0x8555d81abe6d951a9e95a2bb70a0497f5629a45e52b88ef773cb3c632374b496": {
-    "miniDapp": "miniBreaklock/minidapp.conf",
+    "miniDapp": "miniBreaklock.minidapp",
     "icon": "miniBreaklock/images/breaklock.png",
     "conf": "miniBreaklock/minidapp.conf"
   },
