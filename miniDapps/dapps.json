@@ -1,42 +1,42 @@
 {
   "BIP39": {
-    "miniDapp": "BIP39.minidapp",
+    "miniDapp": "BIP391.0.0.minidapp",
     "icon": "BIP39/images/brainBTC.png",
     "conf": "BIP39/minidapp.conf"
   },
-  "CalculatorDApp": {
-    "miniDapp": "CalculatorDApp.minidapp",
-    "icon": "CalculatorDApp/images/calculator.png",
-    "conf": "CalculatorDApp/minidapp.conf"
-  },
-  "Sci-CalculatorDApp": {
-    "miniDapp": "Sci-CalculatorDApp.minidapp",
-    "icon": "Sci-CalculatorDApp/images/sci-calculator.png",
-    "conf": "Sci-CalculatorDApp/minidapp.conf"
-  },
   "aMiniDarkRoom": {
-    "miniDapp": "aMiniDarkRoom.minidapp",
+    "miniDapp": "aMiniDarkRoom1.0.0.minidapp",
     "icon": "aMiniDarkRoom/images/adarkroom.png",
     "conf": "aMiniDarkRoom/minidapp.conf"
   },
+  "calculator": {
+    "miniDapp": "calculator1.0.0.minidapp",
+    "icon": "calculator/images/calculator.png",
+    "conf": "calculator/minidapp.conf"
+  },
   "infiniteTetris": {
-    "miniDapp": "infiniteTetris.minidapp",
+    "miniDapp": "infiniteTetris1.0.0.minidapp",
     "icon": "infiniteTetris/images/tetris.png",
     "conf": "infiniteTetris/minidapp.conf"
   },
   "miniAlienInvasion": {
-    "miniDapp": "miniAlienInvasion.minidapp",
+    "miniDapp": "miniAlienInvasion1.0.0.minidapp",
     "icon": "miniAlienInvasion/images/AlienInvasion.png",
     "conf": "miniAlienInvasion/minidapp.conf"
   },
-  "miniBrainDApp": {
-    "miniDapp": "miniBrainDApp.minidapp",
-    "icon": "miniBrainDApp/images/helloWorldIcon.png",
-    "conf": "miniBrainDApp/minidapp.conf"
+  "miniBrain": {
+    "miniDapp": "miniBrain1.0.0.minidapp",
+    "icon": "miniBrain/images/helloWorldIcon.png",
+    "conf": "miniBrain/minidapp.conf"
   },
-  "miniBreaklock": {
-    "miniDapp": "miniBreaklock.minidapp",
-    "icon": "miniBreaklock/images/breaklock.png",
-    "conf": "miniBreaklock/minidapp.conf"
+  "miniBreakLock": {
+    "miniDapp": "miniBreakLock1.0.0.minidapp",
+    "icon": "miniBreakLock/images/breaklock.png",
+    "conf": "miniBreakLock/minidapp.conf"
+  },
+  "sciCalculator": {
+    "miniDapp": "sciCalculator1.0.0.minidapp",
+    "icon": "sciCalculator/images/sci-calculator.png",
+    "conf": "sciCalculator/minidapp.conf"
   }
 }
