@@ -29,10 +29,10 @@
     "icon": "miniBrain/images/helloWorldIcon.png",
     "conf": "miniBrain/minidapp.conf"
   },
-  "miniBreakLock": {
-    "miniDapp": "miniBreakLock1.0.0.minidapp",
-    "icon": "miniBreakLock/images/breaklock.png",
-    "conf": "miniBreakLock/minidapp.conf"
+  "breakLock": {
+    "miniDapp": "breakLock1.0.0.minidapp",
+    "icon": "breakLock/images/breaklock.png",
+    "conf": "breakLock/minidapp.conf"
   },
   "sciCalculator": {
     "miniDapp": "sciCalculator1.0.0.minidapp",
