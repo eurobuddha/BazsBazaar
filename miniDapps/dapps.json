@@ -40,7 +40,7 @@
     "conf": "sciCalculator/minidapp.conf"
   },
   "Powersof2": {
-    "miniDapp": "Powersof2.minidapp",
+    "miniDapp": "Powersof21.0.0.minidapp",
     "icon": "Powersof2/images/2048.png",
     "conf": "Powersof2/minidapp.conf"
   }
